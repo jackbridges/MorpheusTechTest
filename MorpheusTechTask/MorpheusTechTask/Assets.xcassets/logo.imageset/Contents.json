@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Acme Trading inc.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
